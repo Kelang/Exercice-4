@@ -65,7 +65,7 @@ body {
 }
 
 .box {
-  background-color: #444;
+  background-color: #95bb0c;
   color: #fff;
   border-radius: 5px;
   padding: 10px;
@@ -80,7 +80,7 @@ body {
 }
 
 .footer {
-  background-color: blue;
+  background-color: #19b977;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: auto auto auto;
