@@ -203,6 +203,7 @@ body {
             /*Affichage du menu en rangée*/
             flex-direction: row;
             justify-content: space-between;
+            border-bottom: 7px solid #ffffff;
         }
         .menu a {
             border: none;
